@@ -1,2 +1,2 @@
-# Yandex.Practicum
+# Data-science-projects-Practicum
 Представлены проекты
