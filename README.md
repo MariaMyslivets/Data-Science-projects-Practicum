@@ -1,2 +1,10 @@
 # Data-science-projects-Practicum
-Представлены проекты
+В данном репозитории представлены проекты, которые были выполнены в рамках обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
+| Название проекта | Описание | Используемые библиотеки |
+|:--------------------------: |:-------------------------------------------------------------------:| :-------------:|
+| [Определение стоимости автомобилей](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Car-price) | Разработка модели для предсказания стоимости подержанных автомобилей по его техническим характеристикам и комплектации | *pandas,*  *numpy,* *matplotlib,* *sklearn,* *catboost,* *lightgbm*|
+| [Определение перспективного региона добычи нефти](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Choosing_a_location_for_a_well) | Построение модели для определения перспективного региона добычи нефти по предоставленным пробам из нескольких регионов, а также измеренным показателям: качеству нефти и ее объему запасов в скважинах.| *pandas,* *numpy,* *scikit-learn,* |
+| [Прогнозирование количества заказов такси](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Number-of-taxi-orders) | Построение модели для прогнозирования количества заказов такси в аэропортах в зависимости от времени для привлечения водителей в период пиковой нагрузки. | *pandas,* *numpy,* *scikit-learn,* *catboost* |
+| [Определение коэффициента восстановления золота из руды](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Recovery_of_gold_from_ore) | Подготовка модели предсказания коэффициента восстановления золота из золотосодержащей руды с использованием данных с параметрами добычи и очистки для оптимизацииь производства.  | *pandas,* *numpy,* *matplotlib,* *scikit-learn* |
+| [Определение закономерностей успешности компьютерных игр](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/The_success_of_computer_games) | Планирование рекламной компании интернет-магазина компьютерных игр на следующий год | *pandas,* *numpy,* *matplotlib,*  *seaborn,* *scipy*|
+
