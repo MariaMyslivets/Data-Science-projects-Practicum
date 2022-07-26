@@ -1,3 +1,36 @@
+# Car price prediction
+
+## Task
+Development of a model for predicting the price of used cars according to its technical characteristics and equipment.
+
+Stages of the project:
+- data preprocessing and analysis;
+- training of several models with the selection of hyperparameters;
+- analysis of the results according to the stated criteria of the Customer.
+
+## Data
+The historical data used in the project contains the following categories:
+- car price;
+- car model;
+- car model;
+- body type;
+- gearbox type:
+- type of fuel used;
+- mileage;
+- car power;
+- availability of car repair;
+- year and month of vehicle registration;
+- dates of creation of the profile, its download from the database and the last user activity;
+- postal code of the user.
+ 
+## Used libraries
+*pandas*\
+*numpy*\
+*matplotlib*\
+*sklearn*\
+*catboost*\
+*lightgbm*
+***
 # Определение стоимости автомобилей
 
 ## Задача
