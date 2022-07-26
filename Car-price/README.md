@@ -30,6 +30,12 @@ The historical data used in the project contains the following categories:
 *sklearn*\
 *catboost*\
 *lightgbm*
+
+## Summary
+
+To predict the market value of a car a customer wants to sell, three models were trained and tested: LinearRegression, gradient boosting based on CatBoost, and LightGBM. During the research, hyperparameters were sorted to minimize the RMSE metric. The time of hyperparameter fitting, training and model prediction was also measured.
+
+As a result, for the operation of the application for predicting the cost of a car, taking into account its characteristics, it is recommended to use gradient boosting using the LightGBM library.
 ***
 # Определение стоимости автомобилей
 
