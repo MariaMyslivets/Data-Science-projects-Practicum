@@ -1,4 +1,17 @@
 # Data-science-projects-Practicum
+This repository presents projects that were completed as part of training at Yandex.Practice, the profession "Specialist in Data Science".
+| Project name | Description | Used libraries  |
+|:--------------------------: |:-------------------------------------------------------------------:| :-------------:|
+| [Determining of car prices](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Car-price) | Development of a model for predicting price of used cars according to its technical characteristics and equipment | *pandas,*  *numpy,* *matplotlib,* *sklearn,* *catboost,* *lightgbm*|
+| [Determination of a promising oil production region](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Choosing_a_location_for_a_well) | Building a model to determine a promising oil production region based on samples provided from several regions, as well as measured indicators: oil quality and its volume of reserves in wells.| *pandas,* *numpy,* *scikit-learn,* |
+| [Forecasting the number of taxi orders](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Number-of-taxi-orders) | Building a model to predict the number of taxi orders at airports depending on time to attract drivers during peak periods. | *pandas,* *numpy,* *scikit-learn,* *catboost* |
+| [Determination of the recovery factor of gold from ore](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Recovery_of_gold_from_ore) | Preparing a model for predicting the recovery factor of gold from gold ore using data with mining and refining parameters to optimize production.  | *pandas,* *numpy,* *matplotlib,* *scikit-learn* |
+| [Determination of patterns of success of computer games](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/The_success_of_computer_games) | Planning advertising for an online store of computer games for the next year | *pandas,* *numpy,* *matplotlib,*  *seaborn,* *scipy*|
+
+
+
+
+***
 В данном репозитории представлены проекты, которые были выполнены в рамках обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 | Название проекта | Описание | Используемые библиотеки |
 |:--------------------------: |:-------------------------------------------------------------------:| :-------------:|
