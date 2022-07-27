@@ -1,4 +1,4 @@
-# Prediction patterns of success of computer games
+# Determination of patterns of success of computer games
 
 ## Task
 To plan an advertising campaign for an online store of computer games for the next year, it is necessary to analyze historical data on game sales, user and expert ratings, genres and platforms from open sources and test hypotheses about the success of platforms and game genres.
