@@ -6,7 +6,7 @@ This repository presents projects that were completed as part of training at Yan
 | [Prediction a promising oil production region](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Choosing_a_location_for_a_well) | Building a model to predict a promising oil production region based on samples provided from several regions, as well as measured indicators: oil quality and its volume of reserves in wells.| *pandas,* *numpy,* *scikit-learn,* |
 | [Forecasting the number of taxi orders](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Number-of-taxi-orders) | Building a model to predict the number of taxi orders at airports depending on time to attract drivers during peak periods. | *pandas,* *numpy,* *scikit-learn,* *catboost* |
 | [Prediction the recovery factor of gold from ore](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/Recovery_of_gold_from_ore) | Preparing a model for predicting the recovery factor of gold from gold ore using data with mining and refining parameters to optimize production.  | *pandas,* *numpy,* *matplotlib,* *scikit-learn* |
-| [Prediction of patterns of success of computer games](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/The_success_of_computer_games) | Planning advertising for an online store of computer games for the next year | *pandas,* *numpy,* *matplotlib,*  *seaborn,* *scipy*|
+| [Determination of patterns of success of computer games](https://github.com/MariaMyslivets/Data-Science-projects-Practicum/tree/main/The_success_of_computer_games) | Planning advertising for an online store of computer games for the next year | *pandas,* *numpy,* *matplotlib,*  *seaborn,* *scipy*|
 
 
 
